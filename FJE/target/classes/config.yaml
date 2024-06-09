@@ -1,0 +1,8 @@
+# IconFamily
+IconFamily:
+  awesome:
+    InnerNodeIcon: 🌳
+    LeafNodeIcon: 🍃
+  plain:
+    InnerNodeIcon: " "
+    LeafNodeIcon: " "
