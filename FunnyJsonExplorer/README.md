@@ -1,9 +1,5 @@
 # FunnyJsonExplorer
 
-21307356 黄宣淇
-
-Github repo URL: https://github.com/Esoblu/FJE-java
-
 ## Configuration
 
 下面是本机运行的配置：
