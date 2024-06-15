@@ -1,0 +1,19 @@
+{
+  "id": 12345,
+  "name": "Example Company",
+  "description": "This is an example of a slightly complex JSON file.",
+  "employees":
+  {
+    "employeeId": 1,
+    "firstName": "John",
+    "lastName": "Doe",
+    "age": 30,
+    "position": "Software Engineer",
+    "contact":
+    {
+      "email": "john.doe@example.com",
+      "phone": "+1-800-555-1234"
+    },
+    "skills": ["JavaScript", "Python", "C++"]
+  }
+}
